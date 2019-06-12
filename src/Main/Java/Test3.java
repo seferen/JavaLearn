@@ -1,3 +1,5 @@
+package src.Main.Java;
+
 import java.io.*;
 import java.util.LinkedHashMap;
 import java.util.Map;
